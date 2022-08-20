@@ -4,7 +4,10 @@
 - and a Python / JavaScript developer 💻
 - who's also interested in Astronomy 🔭
 
+---
+
 Discord: blobbybilb#5186
+
 Website: [blobbybilb.github.io](https://blobbybilb.github.io/)
 
 <!--
