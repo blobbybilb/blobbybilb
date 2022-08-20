@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👀
+
+- I'm a student 🎓
+- and a Python / JavaScript developer 💻
+- who's also interested in Astronomy 🔭
+
+Discord: blobbybilb#5186
+Website: [blobbybilb.github.io](https://blobbybilb.github.io/)
 
 <!--
 **blobbybilb/blobbybilb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
