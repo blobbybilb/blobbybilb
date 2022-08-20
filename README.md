@@ -3,6 +3,7 @@
 - I'm a student 🎓
 - and a Python / JavaScript developer 💻
 - who's also interested in Astronomy 🔭
+- and is a Raspberry Pi enthusiast ⚡️
 
 ---
 
