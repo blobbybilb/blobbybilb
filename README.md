@@ -2,7 +2,7 @@
 
 - I'm a student 🎓
 - and a Python / JavaScript developer 💻
-- who's also interested in Astronomy 🔭
+- who's also interested in Quantum Computing ⚛
 - and is a Raspberry Pi enthusiast ⚡️
 
 ---
