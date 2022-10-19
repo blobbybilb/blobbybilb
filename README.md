@@ -2,7 +2,7 @@
 
 - I'm a student 🎓
 - and a Python / JavaScript developer 💻
-- who's also interested in Quantum Computing ⚛
+- who's also interested in Quantum Computing :atom:
 - and is a Raspberry Pi enthusiast ⚡️
 
 ---
