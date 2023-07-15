@@ -2,7 +2,7 @@
 
 - I'm a student 📚
 - and a software developer 💻
-- who's also interested in ½(|Quantum Computing :atom:〉 + |Machine Learning 🤖〉 + |Electronics ⚡️〉 + |Cryptography 🔐〉)
+- who's also interested in ½(|Quantum Computing :atom:〉 + |Machine Learning 🤖〉 + |Electronics ⚡️〉 + |Cryptography 🔐〉)
 #
 <br/>
 
