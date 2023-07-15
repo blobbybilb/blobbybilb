@@ -1,21 +1,16 @@
-### Hello there 👀
+#### Hello there 👀
 
-- I'm a student 🎓
-- and a Python / JavaScript developer 💻
-- who's also interested in Quantum Computing :atom:
-- and is a Raspberry Pi enthusiast ⚡️
-
----
-
-Discord: blobbybilb#5186
-
+- I'm a student 📚
+- and a software developer 💻
+- who's also interested in ½(|Quantum Computing :atom:〉 + |Machine Learning 🤖〉 + |Electronics ⚡️〉 + |Cryptography 🔐〉)
+#
+<br/>
 Website: [blobbybilb.github.io](https://blobbybilb.github.io/)
 
+Contact: `# TODO`
+
+
 <!--
-**blobbybilb/blobbybilb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
