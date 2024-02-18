@@ -8,7 +8,7 @@
 
 Website: [blobbybilb.github.io](https://blobbybilb.github.io/)
 
-Contact: `# TODO`
+Contact: varies
 
 
 <!--
