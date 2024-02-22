@@ -1,23 +1,18 @@
-#### Hello there 👀
+### Hello there 👀
+I'm a student interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉+ |Cryptography 🔐〉
 
-- I'm a student 📚
-- and a software developer 💻
-- who's also interested in ½(|Quantum Computing :atom:〉 + |Machine Learning 🤖〉 + |Electronics ⚡️〉 + |Cryptography 🔐〉)
-#
-<br/>
+If you gave me an AI system that does all my programming for me, I'd gladly use it.*
 
-Website: [blobbybilb.github.io](https://blobbybilb.github.io/)
-
-Contact: varies
-
+<small>*after checking your EULA for anything questionable<small/>
 
 <!--
+90% of the performance with 10% of the effort > 10% more performance with 9x more effort
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
