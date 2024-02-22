@@ -3,6 +3,7 @@ I'm a student interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |
 
 If you gave me an AI system that does all my programming for me, I'd gladly use it.*
 
+---
 
 ### Projects
 
@@ -17,6 +18,7 @@ If you gave me an AI system that does all my programming for me, I'd gladly use 
 - [Viewler](https://github.com/blobbybilb/viewler) - Viewport based (vh & vw) webpage ruler (for web design).
 - [falsename](https://github.com/blobbybilb/falsename) - A simple cross-shell command aliaser.
 
+---
 
 *after checking your EULA for anything questionable
 
