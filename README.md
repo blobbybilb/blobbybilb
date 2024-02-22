@@ -9,6 +9,7 @@ If you gave me an AI system that does all my programming for me, I'd gladly use 
 
 #### Apps
 - [TOTP[App]](https://github.com/blobbybilb/TOTP-App) - An Open Source TOTP authenticator with E2EE self-hostable sync.
+- [blobbybilb's task manager](https://github.com/blobbybilb/task-manager) - A task manager for humans. (v1 (archived, not good enough), v2 is WIP)
 
 #### Security
 - [Basic Auth Warning Extension](https://github.com/blobbybilb/basic-auth-warning-extension) - Displays a warning when you are about to visit a URL that contains basic auth credentials, to help prevent possible phishing attacks.
@@ -18,13 +19,19 @@ If you gave me an AI system that does all my programming for me, I'd gladly use 
 - [Viewler](https://github.com/blobbybilb/viewler) - Viewport based (vh & vw) webpage ruler (for web design).
 - [falsename](https://github.com/blobbybilb/falsename) - A simple cross-shell command aliaser.
 
+#### Why?Framework
+A collection of extremely simple libraries, mostly for web development.
+- 
+
+#### Web Design
+- [SlabCSS](https://github.com/blobbybilb/slabcss) - A tiny CSS framework with a unique look (WIP)
+
 ---
 
 *after checking your EULA for anything questionable
 
 <!--
 90% of the performance with 10% of the effort > 10% more performance with 9x more effort
-- [blobbybilb's task manager](https://github.com/blobbybilb/task-manager) - A task-manager for humans.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
