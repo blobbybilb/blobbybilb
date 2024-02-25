@@ -24,7 +24,7 @@ A collection of extremely simple libraries, mostly for web development.
 - 
 
 #### Web Design
-- [SlabCSS](https://github.com/blobbybilb/slabcss) - A tiny semantic CSS framework with a unique look (WIP)
+- [SlabCSS](https://github.com/blobbybilb/slabcss) - A tiny semantic CSS framework with a unique look
 
 ---
 
