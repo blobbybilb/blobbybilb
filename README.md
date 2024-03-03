@@ -1,7 +1,7 @@
 ### Hello there 👀
 I'm a student interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉+ |Cryptography 🔐〉
 
-If you gave me an AI system that does all my programming for me, I'd gladly use it.*
+If you gave me an AI system that does all my programming for me, I'd gladly use it.* I do like learning/using new programming languages as a sort of puzzle, especially those that use different paradigms from one another.
 
 ---
 
