@@ -1,7 +1,7 @@
 ### Hello there 👀
 I'm a student interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉+ |Cryptography 🔐〉
 
-If you gave me an AI system that does all my programming for me, I'd gladly use it.* Though I do like using languages I'm not familiar with in small projects (as a sort of puzzle), especially those that are very different (paradigm-wise) from other other.
+If you gave me an AI system that does all my programming for me, I'd gladly use it.* Though I do like using languages I'm not familiar with in small projects (as a sort of puzzle), especially those that are very different (paradigm-wise) from one another.
 
 **Note**: Many of the repositories in my Github are either abandoned projects, quick idea tests, or old repos for moved projects. The following is a list of projects that don't fall into those categories.
 
