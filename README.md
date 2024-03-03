@@ -3,6 +3,8 @@ I'm a student interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |
 
 If you gave me an AI system that does all my programming for me, I'd gladly use it.* Though I do like learning/using new programming languages (as a sort of puzzle), especially those that are very different (paradigm-wise) from other other.
 
+**Note**: Many of the repositories in my Github are either abandoned projects, quick idea tests, or old repos for moved projects. The following is a list of projects that don't fall into those categories.
+
 ---
 
 ### Projects
