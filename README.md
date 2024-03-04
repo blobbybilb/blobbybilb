@@ -21,6 +21,9 @@ If you gave me an AI system that does all my programming for me, I'd gladly use 
 - [Viewler](https://github.com/blobbybilb/viewler) - Viewport based (vh & vw) webpage ruler (for web design).
 - [falsename](https://github.com/blobbybilb/falsename) - A simple cross-shell command aliaser.
 
+#### Libraries
+- [java-helpers](https://github.com/blobbybilb/java-helpers) - A set of Java classes that make Java a little less annoying to make stuff with.
+
 #### Why?Framework
 A collection of extremely simple libraries, mostly for web development.
 - 
