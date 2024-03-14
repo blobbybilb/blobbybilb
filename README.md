@@ -41,7 +41,8 @@ A collection of extremely simple libraries, mostly for web development.
 *after checking your EULA for anything questionable
 
 <!--
-90% of the performance with 10% of the effort > 10% more performance with 9x more effort
+- 90% of the performance with 10% of the effort > 10% more performance with 9x more effort
+- limited functionality is better than unreliable functionality
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
