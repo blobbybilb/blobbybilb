@@ -3,6 +3,11 @@ I'm a student interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |
 
 If you gave me an AI system that does all my programming for me, I'd gladly use it.* Though I do like using languages I'm not familiar with in small projects (as a sort of puzzle), especially those that are very different (paradigm-wise) from one another.
 
+My Github is a bit of a mess right now and needs to be cleaned up, but in the meanwhile here's the interesting stuff:
+- list coming soon
+
+<!--
+
 **Note**: Many of the repositories in my Github are either abandoned projects, quick idea tests, or old repos for moved projects. The following is a list of projects that don't fall into those categories.
 
 ---
@@ -37,8 +42,8 @@ A collection of extremely simple libraries, mostly for web development.
 - [SlabCSS](https://github.com/blobbybilb/slabcss) - A tiny semantic CSS framework with a unique look
 
 ---
-
-*after checking your EULA for anything questionable
+-->
+*after... you know... checking your EULA for anything questionable
 
 <!--
 - 90% of the performance with 10% of the effort > 10% more performance with 9x more effort
