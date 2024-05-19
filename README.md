@@ -5,7 +5,7 @@ If you gave me an AI system that does all my programming for me, I'd gladly use 
 
 <!--, especially those that are very different (paradigm-wise) from one another.-->
 
-My Github is a bit of a mess right now and needs to be cleaned up, but in the meanwhile here's the interesting stuff:
+My github is a bit of a mess right now and needs to be cleaned up, but in the meanwhile here's the interesting stuff:
 - list coming soon
 
 <!--
