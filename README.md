@@ -1,12 +1,20 @@
 ### Hello there 👀
 I'm a student interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉+ |Cryptography 🔐〉
 
-If you gave me an AI system that does all my programming for me, I'd gladly use it.* Though I do like using languages I'm not familiar with in small projects (as a sort of puzzle)
+If you gave me an AI system that does all my programming for me, I'd gladly use it.* Though I do like using languages I'm not familiar with in small projects as a sort of puzzle.
 
 <!--, especially those that are very different (paradigm-wise) from one another.-->
 
 My github is a bit of a mess right now and needs to be cleaned up, so in the meanwhile here's the interesting stuff:
 - list coming soon
+
+<details>
+  <summary>Libraries/Dev Stuff</summary>
+  
+  - [Tuplite](https://github.com/blobbybilb/Tuplite) - A zero-config, zero-SQL TypeScript type based DB interface (for SQLite)
+  - [gobble-db](https://github.com/blobbybilb/gobble-db) - A simple & friendly pure go (no cgo) on-disk "struct-oriented" embedded DB
+
+</details>
 
 <!--
 
